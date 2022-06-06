@@ -1,4 +1,4 @@
 # Password_Generator
 Simple Password Generator
 
-![<img src='https://github.com/munish8448/Password_Generator/blob/main/example.png']
+![Example]([http://url/to/img.png](https://github.com/munish8448/Password_Generator/blob/main/example.png))
